@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Kamna Bhadoriya
-- 👀 I’m interested in learning web development and variou programming languages
+- 👀 I’m interested in learning web development, DSA and various programming languages
 - 🌱 I’m currently i am 2nd year computer engineering student
-- 💞️ I’m looking to collaborate on ...
 - 📫 reach me at kamnabhadoriya042@gmail.com
 
 <!---
