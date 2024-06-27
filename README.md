@@ -3,8 +3,6 @@
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamna16&label=Profile%20views&color=0e75b6&style=flat" alt="kamna16" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamna16" alt="kamna16" /></a> </p>
-
 - 🔭 I’m currently working on [CodeUp](https://github.com/Kamna16/CodeUp)
 
 - 👯 I’m looking to collaborate on **Software Projects**
