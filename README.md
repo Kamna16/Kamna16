@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **kamnabhadoriya042@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1Vut94bxZJObpenDODws-RPd6WEKojqBNFHRMc28lXwQ/edit](https://docs.google.com/document/d/1Vut94bxZJObpenDODws-RPd6WEKojqBNFHRMc28lXwQ/edit)
 
 - ⚡ Fun fact **I am Creative**
 
