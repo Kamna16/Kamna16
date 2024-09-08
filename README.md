@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Software Projects**
 
-- 📫 How to reach me **kamnabhadoriya042@gmail.com**
+- 📫 How to reach me **https://kamna-portfolio.vercel.app/**
 
 
 - ⚡ Fun fact **I am Creative**
